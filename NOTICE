@@ -1,0 +1,7 @@
+Flisk task starter
+
+This folder is a copy of the Docker "example-voting-app" sample
+(dockersamples/example-voting-app, commit 63e9150), licensed under the
+Apache License 2.0 (see LICENSE). Changes by Flisk: removed the Kubernetes
+manifests, the Swarm stack file and the upstream CI, and added this NOTICE
+and README.md.
