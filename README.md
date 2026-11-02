@@ -6,9 +6,8 @@ today with `docker compose up`.
 
 Your job (Part 1 of the task): make it start with one `flisk up`.
 
-1. Press **Use this template** on GitHub to create your own new public
-   repository from this one. Do not fork it, and do not open issues or pull
-   requests here.
+1. Press **Fork** on GitHub to create your own public copy. Do not open
+   issues or pull requests here.
 2. In your copy, run `npx @flisk-sh/flisk import . --dry-run`, then the same
    without `--dry-run`, then `flisk up`. You need Docker running.
 3. Replace this README with yours: how to start it with `flisk up`, and what
