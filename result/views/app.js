@@ -1,5 +1,8 @@
 var app = angular.module('catsvsdogs', []);
-var socket = io.connect();
+// The page is served under a path prefix (/api/result/), so the socket must connect under it too.
+var socket = io.connect(window.location.origin, {
+  path: window.location.pathname.replace(/\/$/, '') + '/socket.io'
+});
 
 var bg1 = document.getElementById('background-stats-1');
 var bg2 = document.getElementById('background-stats-2');
