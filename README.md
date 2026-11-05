@@ -47,4 +47,4 @@ What worked well: the dry run is honest about what it can't translate, the port 
 
 ## How I worked
 
-I ran every command myself on my own machine and used an AI assistant as a guide for setup steps and for checking my notes.
+I ran every command myself and made the product choices (which rows, the scores, what not to build). An AI assistant guided the setup and helped me turn my notes and choices into the wording of this README and ROADMAP.md.
