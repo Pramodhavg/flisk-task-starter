@@ -1,4 +1,4 @@
-# Flisk task starter: running with Flisk
+# Running the voting app with Flisk
 
 A 5-service voting app (Python vote page, Node.js results page, .NET worker, Redis, Postgres), run locally with Flisk instead of Docker Compose.
 
